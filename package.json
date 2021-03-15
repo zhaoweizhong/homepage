@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@chakra-ui/nuxt": "^0.2.4",
+    "@chakra-ui/nuxt": "^0.3.0",
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/emotion": "^0.1.0",
