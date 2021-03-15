@@ -955,19 +955,19 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@chakra-ui/nuxt@^0.2.4":
-  version "0.2.4"
-  resolved "https://registry.npm.taobao.org/@chakra-ui/nuxt/download/@chakra-ui/nuxt-0.2.4.tgz#7af574b8b04f7e325a192db03b37ed1ea2dc7e30"
-  integrity sha1-evV0uLBPfjJaGS2wOzftHqLcfjA=
+"@chakra-ui/nuxt@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/nuxt/-/nuxt-0.3.0.tgz#ab045826d7648d5178b9d29bbdbdd407f8ed1743"
+  integrity sha512-eEEwPjssR7R8B3Xego0/znjpYtQVPa8PoonDcF6NsdraFOk5gkNylTAQITmJU9ck0FW177He+g4VtQnQlH1npA==
   dependencies:
-    "@chakra-ui/vue" "^0.7.4"
+    "@chakra-ui/vue" "^0.8.0"
     "@emotion/css" "^11.0.0"
     chakra-loader latest
 
-"@chakra-ui/vue@^0.7.4":
-  version "0.7.4"
-  resolved "https://registry.npm.taobao.org/@chakra-ui/vue/download/@chakra-ui/vue-0.7.4.tgz#5205061e83939b124286ae3ae1fbbe1fba953c72"
-  integrity sha1-UgUGHoOTmxJChq464fu+H7qVPHI=
+"@chakra-ui/vue@^0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/vue/-/vue-0.8.0.tgz#33bbb5c26b0c7cfe06db72686a5d412c3ef0da83"
+  integrity sha512-IWPtyozgLd9qXwNhHQ5iEetez8BGATcN5gvmV/ezncbzeRJikm47v7JcZ/F8yoFfzBEzZzHqPmnpvLRGTIBLTw==
   dependencies:
     "@popperjs/core" "^2.4.0"
     "@styled-system/css" "^5.0.23"
